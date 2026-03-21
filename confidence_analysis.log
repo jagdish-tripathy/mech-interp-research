@@ -1,0 +1,15 @@
+Loaded 3000 samples
+Race distribution: {'White': 1500, 'Black': 1500}
+
+======================================================================
+Loading: /workspace/models/gemma-3-12b-it
+======================================================================
+Model loaded: gemma-3-12b-it
+Token A: 236776, Token B: 236799
+======================================================================
+
+
+Saved: /workspace/outputs/confidence_analysis/gemma-3-12b-it/raw_output/confidence_results_gemma-3-12b-it.csv
+Saved: /workspace/outputs/confidence_analysis/gemma-3-12b-it/raw_output/run_meta_gemma-3-12b-it.json
+
+Inference complete. Run baseline-analysis-plot.py to generate figures.
